@@ -1,0 +1,127 @@
+.navbar-brand {
+	color: #45555a;
+	padding-left: 100px;
+	
+
+}
+
+}
+#contact-form ul {
+	margin-bottom: 20px;
+}
+#contact-form li {
+	margin-bottom: 10px;
+}
+label,
+input[type=text],
+input[type=email],
+textarea {
+	display: block;
+	width: 90%;
+
+}
+input[type=text],
+input[type=email],
+textarea {
+	height: 35px;
+	border: 1px solid #ffffff;
+	padding: 0 10px;
+	font-size: 14px;
+	opacity: .4;
+	background:#000000;
+	color:#ffffff;
+}
+textarea {
+	height: 150px;
+}
+input[type=submit] {
+	background: #000000;
+	opacity: .4;
+	border: 0 none;
+	color: #ffffff;
+	font-size: 18px;
+	padding: 10px 30px;
+	cursor: pointer;
+	margin-left: 40%;
+
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+.media {
+	margin-left: 50px;
+}
+h3{
+	margin-left: 120px;
+}
+
+.navbar-header{
+	
+	padding-right: 100px;	
+}
+
+.container-fluid{
+	background-color: #ffffff;
+}
+
+.navbar-header{
+	font-size: 30px;
+}
+h4{
+	font-size:25px;
+}
+
+h2{
+	padding-left: 50px;
+	font-size:25px;
+	color: gray;
+}
+
+p {
+	font-size: 18px;
+	color:#4aaaa5;
+}
+
+
+
+.connect{
+	float:right;
+	padding-left: 90px;
+}
+
+.panel-body {
+	padding: 20px 40px 20px 3px;
+}
+
+.img-circle{
+	float:left;
+}
+
+.col-md-3{
+	float: right;
+}
+
+.col-md-12 {
+	padding-top: 60px;
+	padding: 40px 50px 90px 80px;
+
+}
+
+.port {
+	padding: 20px 0px 20px 10px;
+	text-align: left;
+	background-color: 	#F0F8FF;
+
+}
+
+.me	{
+	padding-left: 300px;
+}
+
+.vic{
+	background-color: red;
+}
