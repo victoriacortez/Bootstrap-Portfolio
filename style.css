@@ -1,7 +1,11 @@
+body {
+    background-image: url("assets/images/43.jpg");
+    background-color: #cccccc;
+}
+
 .navbar-brand {
-	color: #45555a;
-	padding-left: 100px;
-	
+	padding-left: 80px;	
+	font-size: 30px;
 }
 
 }
@@ -42,14 +46,11 @@ input[type=submit] {
 	padding: 10px 30px;
 	cursor: pointer;
 	margin-left: 40%;
-
-
 }
 
 ul {
   list-style-type: none;
 }
-
 
 .media {
 	margin-left: 50px;
@@ -78,16 +79,12 @@ h4{
 h2{
 	padding-left: 50px;
 	font-size:25px;
-	color: gray;
+	color: #4aaaa5;
 }
 
 p {
 	font-size: 18px;
 	color:#4aaaa5;
-}
-
-.panel-body {
-	padding: 20px 40px 20px 3px;
 }
 
 .img-circle{
@@ -112,14 +109,46 @@ p {
 	padding: 20px 0px 20px 10px;
 	text-align: left;
 	color: #4aaaa5;
-	background-color: #F0F8FF;
-
+	background-color: #B0E0E6;
 }
 
 .about{
 	padding-left:20px;
 	color:#4aaaa5;
-	background-color: #F0F8FF;
+	background-color: #B0E0E6;
 
 }
 
+.me{
+	padding-left: 9px;
+	float: right;
+	padding-bottom: 60px;
+	margin-bottom: 0px;
+	background-color: #B0E0E6;
+
+}
+
+.panel-heading{
+	padding-right: 0px;
+	padding-bottom: 100px;
+}
+
+.cl-md-6{
+	padding-bottom: 0px;
+	margin-right: 100px;
+	margin-top: -459px;
+
+
+}
+
+footer {
+	background: lightgray;
+	color: #fff;
+	padding: 20px 0;
+	clear: both;
+	border-top: 8px solid #4aaaa5;
+	color: #ffffff;
+	font-size: 12px;
+	text-align: center;
+	width:100%;
+}
